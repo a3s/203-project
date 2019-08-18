@@ -1,0 +1,12 @@
+Road_1,2;town_1;town_2
+Road_2,4;town_1;town_3
+Road_3,6;town_1;town_4
+Road_4,1;town_3;town_7
+Road_5,2;town_3;town_8
+Road_6,3;town_4;town_8
+Road_7,3;town_6;town_9
+Road_8,4;town_9;town_10
+Road_9,2;town_8;town_10
+Road_10,5;town_5;town_10
+Road_11,3;town_10;town_11
+Road_12,6;town_2;town_11
